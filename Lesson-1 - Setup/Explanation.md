@@ -1,3 +1,5 @@
-Copy this link for setup --> https://www.youtube.com/watch?v=AWuRl0w7E7Q&pp=ygUhVnNjb2RlK3B5dGhvbiBTZXR1cCBjb2Rld2l0aGhhcnJ5
+Copy this link for collabaration with setup for python and vscode --> https://www.youtube.com/watch?v=cUAK4x_7thA
 
-No Source Code for Today!
+note:just check last 4 options of vscode installer because it's necessary
+
+No Code for Today!
